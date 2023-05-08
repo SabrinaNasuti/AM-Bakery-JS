@@ -1,0 +1,7 @@
+/* 
+Condicionales
+Ciclos
+Funciones
+
+No necesariamnete tienen que estar relacionados entre si
+*/
